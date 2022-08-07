@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently learning Flutter app development.
+I'm a tech enthusiast and intrested in exploring it and creting useful stuffs for humanity.
+I'm looking to collaborate with you all to create great things with you
+
+You can reach me at itsmeakarthi@duck.com
