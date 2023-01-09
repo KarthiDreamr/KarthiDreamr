@@ -20,5 +20,3 @@ I'm a tech enthusiast and intrested in exploring it and creting useful stuffs fo
 I'm looking to collaborate with you all to create great things with you
 
 You can reach me at itsmeakarthi@duck.com
-
-Bye
