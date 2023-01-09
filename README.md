@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi Devs 👋
 
 <!--
 **KarthiDreamer/KarthiDreamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning Flutter app development.
-I'm a tech enthusiast and intrested in exploring it and creating useful stuffs for humanity.
-I'm looking to collaborate with you all to create great things with you
+### I'm currently learning Flutter app development. I'm a tech enthusiast and intrested in exploring it and creating useful stuffs for humanity.I'm looking to collaborate with you all to create great things with you
 
-You can reach me at itsmeakarthi@duck.com
+### You can reach me at itsmeakarthi@duck.com
