@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm currently learning Flutter app development. I'm a tech enthusiast and intrested in exploring it and creating useful stuffs for humanity.I'm looking to collaborate with you all to create great things with you
+I have a basic Knowledge of C,Python ,Java,C++,Dart,HTML,CSS,JavaScript and Kotlin. Currently explored basic fullstack web development and application development. Interested in learning Software designing and Digital Marketing. Excited in applying my knowledge to create useful things for the betterment of the world. I'm looking to collaborate with you all to create great things with you
 
 ### You can reach me at itsmeakarthi@duck.com
