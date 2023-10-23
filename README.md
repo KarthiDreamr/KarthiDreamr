@@ -1,5 +1,6 @@
 # Hi there, I'm Karthi 👋
 
+TLDR;)
 I'm a generalist innovator, working with BSGW on a software utility and developing a healthcare project with CII's mentorship program. I'm also a prefinal year B.Tech IT student in KCT.
 
 - 🔭 I’m currently working on:
@@ -14,8 +15,6 @@ I'm a generalist innovator, working with BSGW on a software utility and developi
 - 💬 Ask me about anything related to Android, Flutter, Django, or UI/UX design 📱
 - 📫 How to reach me: [Email](mailto:karthidreamr@gmail.com), [Twitter](https://twitter.com/KarthiDreamr), [LinkedIn](https://www.linkedin.com/in/karthidreamr/), [StackOverflow](https://stackexchange.com/users/25128898/karthidreamr), [Reddit](https://www.reddit.com/user/KarthiDreamr)
 - ⚡ Fun fact: I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist and having strong sense of justice. I value peace and harmony and want to make the world a better place with technology 🌎.
-
-- 
 
 ## My GitHub Stats
 
