@@ -1,6 +1,5 @@
 # Hi there, I'm Karthi 👋
 
-TLDR;)
 I'm a generalist innovator, working with BSGW on a software utility and developing a healthcare project with CII's mentorship program. I'm also a prefinal year B.Tech IT student in KCT.
 
 - 🔭 I’m currently working on:
