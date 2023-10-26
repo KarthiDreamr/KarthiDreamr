@@ -11,7 +11,7 @@ I'm a generalist innovator, working with BSGW on a software utility and developi
   - AI 🧠
 - 👯 I’m looking to collaborate with you all to create great things with you 🙌
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
-- 💬 Ask me about anything related to Android, Flutter, Django, or UI/UX design 📱
+- 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
 - 📫 How to reach me: [Email](mailto:karthidreamr@gmail.com), [Twitter](https://twitter.com/KarthiDreamr), [LinkedIn](https://www.linkedin.com/in/karthidreamr/), [StackOverflow](https://stackexchange.com/users/25128898/karthidreamr), [Reddit](https://www.reddit.com/user/KarthiDreamr)
 - ⚡ Fun fact: I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist and having strong sense of justice. I value peace and harmony and want to make the world a better place with technology 🌎.
 
