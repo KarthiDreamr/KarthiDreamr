@@ -1,6 +1,6 @@
 # Hi there, I'm Karthi 👋
 
-I'm a generalist innovator, working with BSGW on a software utility and developing a healthcare project with CII's mentorship program. I'm also a prefinal year B.Tech IT student in KCT.
+I'm a generalist innovator,currently working with BSGW on a software utility and developing a healthcare project with CII's mentorship program. I'm also a prefinal year B.Tech IT student in KCT.
 
 - 🔭 I’m currently working on:
   - A Translator Utility Project with Bosh Global Software Technology 🌐
@@ -17,7 +17,7 @@ I'm a generalist innovator, working with BSGW on a software utility and developi
 
 ## My GitHub Stats
 
-![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&theme=radical)
+![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&theme=radical&hide_rank=true&show=prs_merged,prs_merged_percentage)
 
 ## My Top Languages
 
