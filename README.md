@@ -32,9 +32,9 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=springboot_crud_api)](https://github.com/karthidreamr/springboot_crud_api)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=nodejs_express_mongodb)](https://github.com/karthidreamr/nodejs_express_mongodb) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=nodejs_express_mongodb)](https://github.com/karthidreamr/nodejs_express_mongodb)
 
-<-- - ![Email](https://th.bing.com/th/id/OIP.WJEAon8TMQo1p1AZS-Q1LwHaHa?pid=ImgDet&w=180&h=180&c=7&dpr=1.1) [Email](mailto:karthidreamr@gmail.com)
+- ![Email](https://th.bing.com/th/id/OIP.WJEAon8TMQo1p1AZS-Q1LwHaHa?pid=ImgDet&w=180&h=180&c=7&dpr=1.1) [Email](mailto:karthidreamr@gmail.com)
 - ![Twitter](https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png) [Twitter](https://twitter.com/KarthiDreamr)
 - ![LinkedIn](linkedin_icon_url) [LinkedIn](https://www.linkedin.com/in/karthidreamr/)
 - ![StackOverflow](stackoverflow_icon_url) [StackOverflow](https://stackexchange.com/users/25128898/karthidreamr)
