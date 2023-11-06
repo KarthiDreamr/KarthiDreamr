@@ -15,6 +15,8 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 - 📫 How to reach me: [Email](mailto:karthidreamr@gmail.com), [Twitter](https://twitter.com/KarthiDreamr), [LinkedIn](https://www.linkedin.com/in/karthidreamr/), [StackOverflow](https://stackexchange.com/users/25128898/karthidreamr), [Reddit](https://www.reddit.com/user/KarthiDreamr)
 - ⚡ Fun fact: I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist , supporter of humanity and justice. I want to make the world more sustainable technology 🌎.
 
+![](https://komarev.com/ghpvc/?username=KarthiDreamr&color=blueviolet)
+
 ## Stats and Streaks
 
 ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&hide_rank=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
