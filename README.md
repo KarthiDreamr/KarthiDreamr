@@ -20,7 +20,8 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 ## Stats and Streaks
 
 ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&hide_rank=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
-![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark)
+<!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KarthiDreamr&theme=github-dark)](https://git.io/streak-stats)
 
 ## Top Languages
 
