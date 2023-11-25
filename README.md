@@ -22,6 +22,7 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
 - 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
 - ⚡ Fun fact: I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist , supporter of humanity and justice. I want to make the world more sustainable technology 🌎.
+- Walker ID 85449 
 
 ![](https://komarev.com/ghpvc/?username=KarthiDreamr&color=blueviolet)
 
