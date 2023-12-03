@@ -36,19 +36,13 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark)
 
-<!--  ## My Recent Projects
+<!-- ## My Recent Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=flutter_travel_app)](https://github.com/karthidreamr/flutter_travel_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=DashNotes&theme=github_dark)](https://github.com/karthidreamr/DashNotes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=django_rest_api)](https://github.com/karthidreamr/django_rest_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=Graminconnect)](https://github.com/karthidreamr/Graminconnect)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=springboot_crud_api)](https://github.com/karthidreamr/springboot_crud_api)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=UCare)](https://github.com/karthidreamr/UCare)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=nodejs_express_mongodb)](https://github.com/karthidreamr/nodejs_express_mongodb)
-
-- ![Email](https://th.bing.com/th/id/OIP.WJEAon8TMQo1p1AZS-Q1LwHaHa?pid=ImgDet&w=180&h=180&c=7&dpr=1.1) [Email](mailto:karthidreamr@gmail.com)
-- ![Twitter](https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png) [Twitter](https://twitter.com/KarthiDreamr)
-- ![LinkedIn](linkedin_icon_url) [LinkedIn](https://www.linkedin.com/in/karthidreamr/)
-- ![StackOverflow](stackoverflow_icon_url) [StackOverflow](https://stackexchange.com/users/25128898/karthidreamr)
-- ![Reddit](reddit_icon_url) [Reddit](https://www.reddit.com/user/KarthiDreamr) -->
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=IT-KCT-Modern-Android-Development)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development) -->
+ 
