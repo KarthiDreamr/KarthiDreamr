@@ -21,8 +21,11 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 <a href="mailto:karthidreamr@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="88.89" height="50" /></a> 
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
 - 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
-- ⚡ Fun fact: I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist , supporter of humanity and justice. I want to make the world more sustainable technology 🌎.
-- Walker ID 85449 
+- ⚡ Fun fact: <br>
+   _Did you know that the first computer "bug" was actually a real bug? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Hence, the term "debugging" was born! 🐞_
+- 😎 More about me: <br>
+  _I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist , supporter of humanity and justice. Walker ID 85449 .I want to make the world more sustainable technology 🌎._
+
 
 ![](https://komarev.com/ghpvc/?username=KarthiDreamr&color=blueviolet)
 
