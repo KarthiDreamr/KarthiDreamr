@@ -39,6 +39,7 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark)
 
+
 <!-- ## My Recent Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=DashNotes&theme=github_dark)](https://github.com/karthidreamr/DashNotes)
