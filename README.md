@@ -24,7 +24,7 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 - ⚡ Fun fact: <br>
    _Did you know that the first computer "bug" was actually a real bug? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Hence, the term "debugging" was born! 🐞_
 - 😎 More about me: <br>
-  _I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. I'm an optimistic nihilist , supporter of humanity and justice. Walker ID 85449 .I want to make the world more sustainable technology 🌎._
+  _I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. Walker ID 85449 :guitar: . I'm an optimistic nihilist, supporter of humanity and justice. I want to make the world more sustainable technology 🌎._
 
 
 ![](https://komarev.com/ghpvc/?username=KarthiDreamr&color=blueviolet)
