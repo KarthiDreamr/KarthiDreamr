@@ -35,20 +35,20 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KarthiDreamr&theme=github-dark)](https://git.io/streak-stats)
 
-## Top Languages
+<!-- ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark) -->
 
 
-<!-- ## My Recent Projects
+## My Recent Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=DashNotes&theme=github_dark)](https://github.com/karthidreamr/DashNotes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=Graminconnect)](https://github.com/karthidreamr/Graminconnect)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=Graminconnect&theme=github_dark)](https://github.com/karthidreamr/Graminconnect)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=UCare)](https://github.com/karthidreamr/UCare)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=UCare&theme=github_dark)](https://github.com/karthidreamr/UCare)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=IT-KCT-Modern-Android-Development)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=GyroSensing-Android-Jetpack&theme=github_dark)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development)
 
 <!--
  ## Tech Stack
