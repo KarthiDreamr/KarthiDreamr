@@ -25,9 +25,13 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
    _Did you know that the first computer "bug" was actually a real bug? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Hence, the term "debugging" was born! 🐞_
 - 😎 More about me: <br>
   _I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. Walker ID 85449 :guitar: . I'm an optimistic nihilist, supporter of humanity and justice. I want to make the world more sustainable technology 🌎._
-
-
+  
+</br>
+<div align="center">
+  
 ![](https://komarev.com/ghpvc/?username=KarthiDreamr&color=blueviolet)
+
+</div>
 
  ## Tech Stack
 
@@ -62,6 +66,7 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
   <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
   ![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)  
+  </br>
   ![KarthiDreamr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiDreamr&theme=github_dark)
     
 </div>
@@ -73,6 +78,8 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 ## My Recent Projects
 
+<div align="center">
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=DashNotes&theme=github_dark)](https://github.com/karthidreamr/DashNotes)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=Graminconnect&theme=github_dark)](https://github.com/karthidreamr/Graminconnect)
@@ -80,4 +87,5 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=UCare&theme=github_dark)](https://github.com/karthidreamr/UCare)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=GyroSensing-Android-Jetpack&theme=github_dark)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development)
-  
+
+</div>
