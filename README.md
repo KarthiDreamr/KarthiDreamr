@@ -55,10 +55,16 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 ## Stats and Streaks
 
-![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&hide_rank=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
-<!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KarthiDreamr&theme=github-dark)](https://git.io/streak-stats)
-![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)
+<div align="center">
+  
+  ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&hide_rank=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
+  ![KarthiDreamr's Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthiDreamr&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
+
+  <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
+  ![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)  
+  ![KarthiDreamr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiDreamr&theme=github_dark)
+    
+</div>
 
 <!-- ## Top Languages
 
@@ -75,15 +81,3 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=GyroSensing-Android-Jetpack&theme=github_dark)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development)
   
- ## Status
-
-<div align="center">
-  
-  [![KarthiDreamr's github stats](https://github-readme-stats.vercel.app/api?username=KarthiDreamr&show_icons=true&theme=github_dark)](https://github.com/KarthiDreamr?tab=repositories)
-  ![KarthiDreamr's Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthiDreamr&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
-  
-  ![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)
-  
-  ![KarthiDreamr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiDreamr&theme=github_dark)
-    
-</div>
