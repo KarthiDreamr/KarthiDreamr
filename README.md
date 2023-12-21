@@ -15,7 +15,7 @@ I'm a generalist innovator,currently working with BSGW on a software utility and
 &emsp;&emsp;&emsp;&emsp; <a href="https://www.linkedin.com/in/karthidreamr/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="50" height="50" /></a>
 &ensp;
 <a href="https://stackexchange.com/users/25128898/karthidreamr"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-1024.png" width="50" height="50" /></a>  &ensp;
-<a href="https://twitter.com/KarthiDreamr"><img src="https://github.com/KarthiDreamr/KarthiDreamr/blob/b4f8c5a5c1a52ac018bc5434ea4a35eec8a74d92/twitter_white_small.png" width="43" height="46" /></a>
+<a href="https://twitter.com/KarthiDreamr"><img src="twitter_white_very_small.png" width="43" height="46" /></a>
 &ensp;
 <a href="https://www.reddit.com/user/KarthiDreamr"><img src="https://www.elementaryos-fr.org/wp-content/uploads/2019/08/logo-reddit-600x600.png" width="50" height="50" /></a>
 &ensp;
