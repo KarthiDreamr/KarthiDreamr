@@ -1,9 +1,10 @@
+C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=java_logo&style=flat&logo=c-sharp&logoColor=white)
+
 - [ ] **Programming Languages:**
   - [x] C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
   - [x] C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   - [x] C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-  - [ ] Java ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
-  - [ ] ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
+  - [ ] Java  ![Java](https://custom-icon-badges.demolab.com/badge/java-blue.svg?logo=java_logo&logoColor=white)
   - [x] JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   - [x] Python ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   - [x] Dart ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
@@ -59,6 +60,10 @@
 
 ### Others
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+
+<!-- References
+https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file 
+https://shields.io/docs/logos -->
 
 
      
