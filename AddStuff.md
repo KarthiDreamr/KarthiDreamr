@@ -1,16 +1,27 @@
 - [ ] **Programming Languages:**
-  - [ ] C#
-  - [ ] C++
-  - [ ] C (Programming Language)
+  - [x] C#
+  - [x] C++
+  - [x] C 
   - [ ] Java
-  - [ ] JavaScript
-  - [ ] Python (Programming Language)
-  - [ ] Dart
-  - [ ] Kotlin
+  - [x] JavaScript
+  - [x] Python 
+  - [x] Dart
+  - [x] Kotlin
+  - [x] HTML5
+  - [x] Cascading Style Sheets (CSS)
+  - [ ] Shell Script
+     
+- [ ] **Services**
+  - [ ] Firebase
+  - [ ] Github
+  - [ ] Gitlab
+     
+- [ ] **Frameworks/Libaries**
+  - [ ] Firebase
+  - [ ] Github
+  - [ ] Gitlab
 
 - [ ] **Web Development:**
-  - [ ] HTML5
-  - [ ] Cascading Style Sheets (CSS)
   - [ ] React.js
   - [ ] Spring MVC
   - [ ] Spring Boot
@@ -36,9 +47,14 @@
 
 - [ ] **Operating Systems:**
   - [ ] Linux
+  - [ ] WSL
+  - [ ] VM
+  - [ ] Windows
 
 - [ ] **Cloud Computing:**
   - [ ] Microsoft Azure
+  - [ ] Google Cloud
+  - [ ] AWS
 
 - [ ] **Software Development:**
   - [ ] Object-Oriented Programming (OOP)
