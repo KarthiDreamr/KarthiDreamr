@@ -2,7 +2,8 @@
   - [x] C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
   - [x] C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   - [x] C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-  - [ ] Java
+  - [ ] Java ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
+  - [ ] ![Java](https://img.shields.io/badge/java-%23007396.svg?style=flat&logo=java&logoColor=white)
   - [x] JavaScript ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   - [x] Python ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
   - [x] Dart ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
@@ -13,51 +14,42 @@
      
 - [ ] **Services**
   - [ ] Firebase ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-  - [ ] Github ![Git](https://img.shields.io/badge/Git-%2300599C.svg?logo=git)
-  - [ ] Gitlab
+  - [ ] Git ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
      
 - [ ] **Frameworks/Libraries**
-  - [ ] Firebase
-  - [ ] Github
-  - [ ] Gitlab
+  - [ ] React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  - [ ] React Native ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 
 - [ ] **Web Development:**
   - [ ] React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-  - [ ] Spring MVC
-  - [ ] Spring Boot
-  - [ ] Spring Framework
-  - [ ] Front-End Web Development
-  - [ ] Web Development
+  - [ ] Spring MVC ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+  - [ ] Spring Boot ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=spring-boot)
+  - [ ] Spring Framework ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
 - [ ] **Mobile Development:**
   - [ ] Android Jetpack ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-%2300599C.svg?logo=jetpackcompose)
   - [ ] Flutter ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-  - [ ] Android Development
-  - [ ] React Native
-  - [ ] Mobile Application Development
+  - [ ] Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+  - [ ] VS Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 - [ ] **Database Management:**
-  - [ ] Microsoft SQL Server
-  - [ ] SQL
-  - [ ] Firebase
-
-- [ ] **Version Control Systems:**
-  - [ ] GitHub
-  - [ ] Git
+  - [ ] Microsoft SQL Server ![Microsoft SQL Server](https://img.shields.io/badge/microsoftsqlserver-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+  - [ ] SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white)
+  - [ ] MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 - [ ] **Operating Systems:**
-  - [ ] Linux
-  - [ ] WSL
-  - [ ] VM
-  - [ ] Windows
+  - [ ] Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+  - [ ] WSL:  ![WSL](https://img.shields.io/badge/WSL-%23007ACC.svg?style=flat&logo=windows&logoColor=white)
+  - [ ] VM:  ![VMware](https://img.shields.io/badge/vmware-%23607C8E.svg?style=flat&logo=vmware&logoColor=white)    
+    
 
 - [ ] **Cloud Computing:**
-  - [ ] Microsoft Azure
-  - [ ] Google Cloud
-  - [ ] AWS
+  - [ ] Microsoft Azure ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
+  - [ ] Google Cloud ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+  - [ ] AWS ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 - [ ] **Software Development:**
-  - [ ] Object-Oriented Programming (OOP)
+  - [ ] Object-Oriented Programming (OOP) ![OOP](https://img.shields.io/badge/oop-%23000000.svg?style=flat&logo=object-oriented-programming&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
@@ -69,66 +61,6 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
 
 
-- [ ] **Programming Languages:**
-  - [x] C#
-  - [x] C++
-  - [x] C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-  - [ ] Java
-  - [x] JavaScript
-  - [x] Python 
-  - [x] Dart
-  - [x] Kotlin
-  - [x] HTML5
-  - [x] Cascading Style Sheets (CSS)
-  - [ ] Shell Script
-     
-- [ ] **Services**
-  - [ ] Firebase
-  - [ ] Github
-  - [ ] Gitlab
-     
-- [ ] **Frameworks/Libaries**
-  - [ ] Firebase
-  - [ ] Github
-  - [ ] Gitlab
-
-- [ ] **Web Development:**
-  - [ ] React.js
-  - [ ] Spring MVC
-  - [ ] Spring Boot
-  - [ ] Spring Framework
-  - [ ] Front-End Web Development
-  - [ ] Web Development
-
-- [ ] **Mobile Development:**
-  - [ ] Android Jetpack
-  - [ ] Flutter
-  - [ ] Android Development
-  - [ ] React Native
-  - [ ] Mobile Application Development
-
-- [ ] **Database Management:**
-  - [ ] Microsoft SQL Server
-  - [ ] SQL
-  - [ ] Firebase
-
-- [ ] **Version Control Systems:**
-  - [ ] GitHub
-  - [ ] Git
-
-- [ ] **Operating Systems:**
-  - [ ] Linux
-  - [ ] WSL
-  - [ ] VM
-  - [ ] Windows
-
-- [ ] **Cloud Computing:**
-  - [ ] Microsoft Azure
-  - [ ] Google Cloud
-  - [ ] AWS
-
-- [ ] **Software Development:**
-  - [ ] Object-Oriented Programming (OOP)
      
 
   ### Langs
@@ -176,7 +108,6 @@
 - Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
 - WSL:  ![WSL](https://img.shields.io/badge/WSL-%23007ACC.svg?style=flat&logo=windows&logoColor=white) 
 - VM:  ![VMware](https://img.shields.io/badge/vmware-%23607C8E.svg?style=flat&logo=vmware&logoColor=white) 
-- Windows:  ![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) 
 
 **Cloud Computing**
 - Microsoft Azure:  ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) 
