@@ -1,7 +1,5 @@
-C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=java_logo&style=flat&logo=c-sharp&logoColor=white)
-
 - [ ] **Programming Languages:**
-  - [x] C# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+  - [x] C# ![C#](https://img.shields.io/badge/c%23-8A2BE2?logo=csharp)
   - [x] C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
   - [x] C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
   - [ ] Java  ![Java](https://custom-icon-badges.demolab.com/badge/java-blue.svg?logo=java_logo&logoColor=white)
@@ -86,9 +84,6 @@ https://shields.io/docs/logos -->
 
  ### AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-
-  ### Others
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
   
   </div>
 
@@ -118,6 +113,3 @@ https://shields.io/docs/logos -->
 - Microsoft Azure:  ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) 
 - Google Cloud:  ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
 - AWS:  ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-
-**Software Development**
-- Object-Oriented Programming (OOP):  ![OOP](https://img.shields.io/badge/oop-%23000000.svg?style=flat&logo=object-oriented-programming&logoColor=white) 
