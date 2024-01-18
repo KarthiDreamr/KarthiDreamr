@@ -31,37 +31,59 @@
   - [ ] Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
   - [ ] VS Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
-- [ ] **Database Management:**
-  - [ ] Microsoft SQL Server ![Microsoft SQL Server](https://img.shields.io/badge/microsoftsqlserver-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
-  - [ ] SQL ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=database&logoColor=white)
-  - [ ] MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+  - [ ] SQL ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 - [ ] **Operating Systems:**
-  - [ ] Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-  - [ ] WSL:  ![WSL](https://img.shields.io/badge/WSL-%23007ACC.svg?style=flat&logo=windows&logoColor=white)
-  - [ ] VM:  ![VMware](https://img.shields.io/badge/vmware-%23607C8E.svg?style=flat&logo=vmware&logoColor=white)    
-    
+  - [ ] Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)    
 
 - [ ] **Cloud Computing:**
   - [ ] Microsoft Azure ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
   - [ ] Google Cloud ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
   - [ ] AWS ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
-- [ ] **Software Development:**
-  - [ ] Object-Oriented Programming (OOP) ![OOP](https://img.shields.io/badge/oop-%23000000.svg?style=flat&logo=object-oriented-programming&logoColor=white)
-
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
 
 ### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) 
-
-### Others
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) 
 
 <!-- References
 https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file 
 https://shields.io/docs/logos -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
      
@@ -106,8 +128,6 @@ https://shields.io/docs/logos -->
 
 **Operating Systems**
 - Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
-- WSL:  ![WSL](https://img.shields.io/badge/WSL-%23007ACC.svg?style=flat&logo=windows&logoColor=white) 
-- VM:  ![VMware](https://img.shields.io/badge/vmware-%23607C8E.svg?style=flat&logo=vmware&logoColor=white) 
 
 **Cloud Computing**
 - Microsoft Azure:  ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white) 
