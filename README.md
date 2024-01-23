@@ -61,26 +61,26 @@
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react) 
   ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=spring-boot&color=FFD700) 
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&color=8A2BE2) 
-  ![Android Jetpack](https://img.shields.io/badge/Jetpack_Compose-%2300599C.svg?logo=jetpackcompose) 
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white&color=FF4500) 
+  ![Android Jetpack](https://img.shields.io/badge/jetpack_compose-%2300599C.svg?logo=jetpackcompose) 
+  ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white&color=FF4500) 
   ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=8A2BE2)  
   ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white&color=FFD700) 
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap) 
-  ![NPM](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js) 
+  ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=TensorFlow) 
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+  ![NPM](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB) 
-  ![.NET](https://img.shields.io/badge/FRAMEWORK-512BD4.svg?style=flat&logo=.net&logoColor=white)
+  ![.NET](https://img.shields.io/badge/framework-512BD4.svg?style=flat&logo=.net&logoColor=white)
 
 ### Design
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-  ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13&color=FF4500) 
-  ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF&color=8B4513)
+  ![Inkscape](https://img.shields.io/badge/inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13&color=FF4500) 
+  ![Gimp](https://img.shields.io/badge/gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF&color=8B4513)
 
 ### Others
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code)  
+  ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code)  
   ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=00FF00) 
-  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle)
+  ![Gradle](https://img.shields.io/badge/gradle-02303A.svg?style=flat&logo=Gradle)
 
 </div>
 
