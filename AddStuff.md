@@ -16,14 +16,14 @@
 - [ ] **Services**
   - [ ] Firebase ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
   - [ ] Git ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+  - [ ] Microsoft Azure ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
+  - [ ] Google Cloud ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+  - [ ] AWS ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
      
 - [ ] **Frameworks/Libraries**
   - [ ] React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   - [ ] React Native ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-- [ ] **Web Development:**
   - [ ] React.js ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-  - [ ] Spring MVC ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
   - [ ] Spring Boot ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat&logo=spring-boot)
   - [ ] Spring Framework ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 
@@ -32,23 +32,16 @@
   - [ ] Flutter ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
   - [ ] Android Studio ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
   - [ ] VS Code ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-
   - [ ] SQL ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+     
+- [ ] **Design**
+  - [ ] Figma ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+  - [ ] Inkscape ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
+  - [ ] Gimp ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+  - [ ] Android Development ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 
-- [ ] **Operating Systems:**
+- [ ] **Others:**
   - [ ] Linux:  ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)    
-
-- [ ] **Cloud Computing:**
-  - [ ] Microsoft Azure ![Microsoft Azure](https://img.shields.io/badge/microsoftazure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
-  - [ ] Google Cloud ![Google Cloud](https://img.shields.io/badge/googlecloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-  - [ ] AWS ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-
-### Design
-  - [ ] ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-  - [ ] ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
-  - [ ] ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
-  - [ ] Android Development:  ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=flat&logo=android&logoColor=white)
 
 <!-- References
 https://github.com/DenverCoder1/custom-icon-badges?tab=readme-ov-file 
