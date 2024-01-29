@@ -3,10 +3,12 @@
 ## I'm a generalist innovator,currently working with BSGW on a software utility and developing a healthcare project with CII's mentorship program. I'm also a prefinal year B.Tech IT student in KCT.
 
 - 🔭 I’m currently working on:
+  - Yugam App - An event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore.
+  - A Healthcare Project with CII's Mentorship Program 🏥
+- 🔭 Completed Projects
   - A Translator Utility Project with Bosh Global Software Technology 🌐
   - A Healthcare Project with CII's Mentorship Program 🏥
   - A Solution to Make e-Sanjeevani Application Developed by Ministry of Health India More Accessible to Rural People Using a Kiosk Application 🚑
-  - Yugam App - An event managements application designed for Yugam Grand event KCT every Year
 - 🌱 I’m currently learning:
   - WinUI3 Windows Native Application Development 💻
   - AI 🧠
