@@ -41,7 +41,6 @@
 ### Programming Languages
   ![C#](https://img.shields.io/badge/c%23-8A2BE2?logo=csharp&style=flat) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white&color=044F88) 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white&color=8A2BE2) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=F7DF1E) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54&color=306998) 
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart) 
@@ -49,6 +48,7 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white&color=violet) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3) 
   ![Java](https://custom-icon-badges.demolab.com/badge/java-blue.svg?logo=java_logo&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white&color=8A2BE2) 
 
 ### Cloud Technologies
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&color=039be5) 
@@ -73,9 +73,9 @@
 
 ### Design
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-  ![Inkscape](https://img.shields.io/badge/inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13&color=FF4500) 
   ![Gimp](https://img.shields.io/badge/gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF&color=8B4513)
-
+  ![Inkscape](https://img.shields.io/badge/inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13&color=FF4500) 
+  
 ### Others
   ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
   ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code)  
