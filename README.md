@@ -7,7 +7,6 @@
   - A Healthcare Project with CII's Mentorship Program 🏥
 - 🔭 Completed Projects
   - A Translator Utility Project with Bosh Global Software Technology 🌐
-  - A Healthcare Project with CII's Mentorship Program 🏥
   - A Solution to Make e-Sanjeevani Application Developed by Ministry of Health India More Accessible to Rural People Using a Kiosk Application 🚑
 - 🌱 I’m currently learning:
   - WinUI3 Windows Native Application Development 💻
