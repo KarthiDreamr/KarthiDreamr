@@ -1,6 +1,6 @@
 # Hi there, I'm Karthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## I'm a generalist innovator,currently working on Yugam App, an event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore
+## I'm a generalist innovator, currently working on Yugam App, an event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore
 
 - 🔭 I’m currently working on:
   - Yugam App - An event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore.
