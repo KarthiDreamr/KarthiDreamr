@@ -1,5 +1,15 @@
 ![](https://www.youtube.com/live/i5wK7_E9SWo?si=gmNouWdRSCbQ-BBY)
 
+<video src='https://link.storjshare.io/s/jx4bcplibehqeax7togzohw4mqsq/buckett%2FHyperverge_CV.mp4' width=180/>
+
+https://link.storjshare.io/s/jx4bcplibehqeax7togzohw4mqsq/buckett%2FHyperverge_CV.mp4
+
+<div style="position:relative; width:100%; height:0px; padding-bottom:178.218%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/4owaqq?nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+https://streamable.com/4owaqq
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/i5wK7_E9SWo" title="🔴 Building Your First Extension in VS Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - [ ] **Programming Languages:**
   - [x] C# ![C#](https://img.shields.io/badge/c%23-8A2BE2?logo=csharp)
   - [x] C++ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
