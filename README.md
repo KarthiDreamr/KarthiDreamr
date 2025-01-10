@@ -92,7 +92,7 @@ https://shields.io/docs/logos -->
 ## Stats and Streaks
 
 <div align="center">
-  https://streak-stats.demolab.com/?user=KarthiDreamr&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0
+
   ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
   <!--  ![KarthiDreamr's Streak](http://github-readme-streak-stats.herokuapp.com?user=KarthiDreamr&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0) -->
 
