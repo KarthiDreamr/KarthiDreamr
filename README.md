@@ -1,18 +1,5 @@
-# Hi there, I'm Karthi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## I'm a generalist innovator, currently working on Yugam App, an event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore
 
-- 🔭 I’m currently working on:
-  - Yugam App - An event management application designed for Yugam Techno-Cultural Event for Kumaraguru College of Technology, Coimbatore.
-  - A Healthcare Project with CII's Mentorship Program 🏥
-- 🔭 Completed Projects
-  - A Translator Utility Project with Bosh Global Software Technology 🌐
-  - A Solution to Make e-Sanjeevani Application Developed by Ministry of Health India More Accessible to Rural People Using a Kiosk Application 🚑
-- 🌱 I’m currently learning:
-  - WinUI3 Windows Native Application Development 💻
-  - AI 🧠
-- 👯 I’m looking to collaborate with you all to create great things with you 🙌
-  
 &emsp;&emsp;&emsp;&emsp; <a href="https://www.linkedin.com/in/karthidreamr/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="50" height="50" /></a>
 &ensp;
 <a href="https://stackexchange.com/users/25128898/karthidreamr"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-1024.png" width="50" height="50" /></a>  &ensp;
@@ -25,10 +12,8 @@
 <a href="mailto:karthidreamr@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="88" height="50" /></a> 
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
 - 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
-- ⚡ Fun fact: <br>
-   _Did you know that the first computer "bug" was actually a real bug? In 1947, a moth got trapped in a relay of a Mark II computer at Harvard University. Hence, the term "debugging" was born! 🐞_
 - 😎 More about me: <br>
-  _I'm a fan of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. Walker ID 85449 :guitar: . I'm an optimistic nihilist, supporter of humanity and justice. I want to make the world more sustainable technology 🌎._
+  _I like of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. Walker ID 85449 :guitar: . Optimistic nihilist, supporter of justice and world peace. I want to make the world more sustainable technology 🌎._
   
 </br>
 <div align="center">
@@ -62,14 +47,10 @@
 
 ### Frameworks / Libraries
  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react) 
- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&color=FFD700) 
- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white&color=8A2BE2) 
  ![Android Jetpack](https://img.shields.io/badge/Jetpack%20Compose-%2300599C.svg?logo=jetpackcompose) 
  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white&color=FF4500) 
  ![SQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white&color=8A2BE2)  
  ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=android&logoColor=white&color=FFD700) 
- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow) 
- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
  ![NPM](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
  ![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB) 
  ![.NET](https://img.shields.io/badge/.NET%20Framework-512BD4.svg?style=flat&logo=.net&logoColor=white)
@@ -77,7 +58,6 @@
 ### Design
  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
  ![Gimp](https://img.shields.io/badge/GIMP-657D8B?style=flat&logo=gimp&logoColor=FFFFFF&color=8B4513)
- ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13&color=FF4500) 
   
 ### Others
  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
