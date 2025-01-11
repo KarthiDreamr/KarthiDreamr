@@ -16,11 +16,11 @@
 &emsp;&emsp;&emsp;&emsp; <a href="https://www.linkedin.com/in/karthidreamr/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="50" height="50" /></a>
 &ensp;
 <a href="https://stackexchange.com/users/25128898/karthidreamr"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/stackoverflow-1024.png" width="50" height="50" /></a>  &ensp;
-<a href="https://twitter.com/KarthiDreamr"><img src="twitter_white_very_small.png" width="43" height="46" /></a>
+<a href="https://twitter.com/KarthiDreamr"><img src="logos/twitter.png" width="43" height="46" /></a>
 &ensp;
 <a href="https://www.reddit.com/user/KarthiDreamr"><img src="https://www.elementaryos-fr.org/wp-content/uploads/2019/08/logo-reddit-600x600.png" width="50" height="50" /></a>
 &ensp;
-<a href="https://www.youtube.com/@KarthiDreamr"><img src="youtube.png" height="46" /></a>
+<a href="https://www.youtube.com/@KarthiDreamr"><img src="logos/youtube.png" height="46" /></a>
 &ensp;
 <a href="mailto:karthidreamr@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="88" height="50" /></a> 
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
