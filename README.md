@@ -20,6 +20,8 @@
 &ensp;
 <a href="https://www.reddit.com/user/KarthiDreamr"><img src="https://www.elementaryos-fr.org/wp-content/uploads/2019/08/logo-reddit-600x600.png" width="50" height="50" /></a>
 &ensp;
+<a href="https://www.youtube.com/@KarthiDreamr"><img src="youtube.png" height="46" /></a>
+&ensp;
 <a href="mailto:karthidreamr@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="88" height="50" /></a> 
 - 🤔 I’m looking for help with learning more about Unity and game development 🎮
 - 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
