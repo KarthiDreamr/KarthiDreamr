@@ -1,3 +1,42 @@
+# 👋 Hi, I'm Karthi
+
+🚀 **About Me:**  
+- Passionate open-source contributor and innovator.  
+- Final-year B.Tech IT student at Kumaraguru College of Technology.  
+- Founder of **Litigence AI**, an open-source project empowering justice through AI-driven legal solutions.  
+
+💡 **Open Source Contributions:**  
+
+1. **Litigence AI**  
+   - A cross-platform legal assistant app that simplifies Indian law for citizens.  
+   - Features include a chatbot interface, multilingual support, and legal document parsing.  
+   - Built with Flutter and Flask, leveraging Vertex AI for intelligence.  
+   - *[GitHub Repository](https://github.com/LexMachina-AI)*    
+
+2. **Modern Android Development Lab**  
+   - Lab exercises showcasing modern Android techniques like Jetpack Compose and Kotlin Multiplatform.  
+   - Covers advanced topics like animations, gyroscopic sensors, and DataStore integration.  
+   - *[GitHub Repository](https://github.com/IT-KCT-Modern-Android-Development)*  
+
+3. **KCT-BSGW Translation Utility**  
+   - A Windows app developed in collaboration with Bosch Global Software Technologies (BSGW).  
+   - Automates text translation using Microsoft Azure Translate for various file formats.  
+   - *[GitHub Repository](https://github.com/KarthiDreamr/MultiFileAzureTranslateWindowsApp)*  
+
+🎯 **Mission:**  
+To build accessible, impactful technology that bridges gaps in justice, healthcare, and education.
+
+⚡ **Fun Fact:**  
+I love contributing to projects that make a difference while exploring sci-fi movies and animated YouTube videos!
+
+<!--
+---
+
+📫 **Connect with Me:**  
+[LinkedIn](https://www.linkedin.com/in/KarthiDreamr) • [GitHub](https://github.com/KarthiDreamr) • [Twitter](https://x.com/KarthiDreamr)  
+
+🌟 *Let’s collaborate on open-source projects that drive change!*
+
 
 
 &emsp;&emsp;&emsp;&emsp; <a href="https://www.linkedin.com/in/karthidreamr/"><img src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" width="50" height="50" /></a>
@@ -10,10 +49,7 @@
 <a href="https://www.youtube.com/@KarthiDreamr"><img src="logos/youtube.png" height="46" /></a>
 &ensp;
 <a href="mailto:karthidreamr@gmail.com"><img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" width="88" height="50" /></a> 
-- 🤔 I’m looking for help with learning more about Unity and game development 🎮
-- 💬 Ask me about anything related to Android, Flutter, MySQL, Tkinter, Django, or UI/UX design 📱
-- 😎 More about me: <br>
-  _I like of sci-fi movies 🎥, animated YouTube videos 🎞️, Harry Potter ⚡ and science 🔬. Walker ID 85449 :guitar: . Optimistic nihilist, supporter of justice and world peace. I want to make the world more sustainable technology 🌎._
+-->
   
 </br>
 <div align="center">
@@ -75,7 +111,7 @@ https://shields.io/docs/logos -->
 
 <div align="center">
 
-  ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&show=prs_merged,prs_merged_percentage&theme=github_dark) &nbsp; &nbsp;
+  ![Karthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=karthidreamr&show_icons=true&show=prs_merged,prs_merged_percentage&theme=github_dark) \
   ![KarthiDreamr's Streak](https://github-readme-streak-stats-eight.vercel.app?user=KarthiDreamr&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0)
   <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
   ![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)  
