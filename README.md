@@ -80,15 +80,12 @@ https://shields.io/docs/logos -->
   <!-- ![Karthi's Github Streak🔥 ](https://github-readme-streak-stats.herokuapp.com/?user=KarthiDreamr&theme=github-dark) -->
   ![KarthiDreamr's Trophies](https://github-profile-trophy.vercel.app/?username=KarthiDreamr&rank=-B&column=-1&no-frame=true&margin-w=10)  
   </br>
-  ![KarthiDreamr's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthiDreamr&theme=github_dark)
     
 </div>
 
-<!-- ## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark) -->
-
-
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthidreamr&theme=github_dark)
+<!-- 
 ## My Recent Projects
 
 <div align="center">
@@ -102,3 +99,8 @@ https://shields.io/docs/logos -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=karthidreamr&repo=GyroSensing-Android-Jetpack&theme=github_dark)](https://github.com/karthidreamr/IT-KCT-Modern-Android-Development)
 
 </div>
+
+ -->
+
+
+
