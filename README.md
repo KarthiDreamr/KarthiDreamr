@@ -1,27 +1,23 @@
 # 👋 Hi, I'm Karthi
 
 🚀 **About Me:**  
-- Passionate open-source contributor and innovator.  
-- Final-year B.Tech IT student at Kumaraguru College of Technology.  
-- Founder of **Litigence AI**, an open-source project empowering justice through AI-driven legal solutions.  
+- Founder of **Litigence AI**, an open-source project empowering justice through AI-driven legal solutions.
+- Specialized in Mobile and Desktop application. Ready to learn anything to accomplish the task
 
 💡 **Open Source Contributions:**  
 
-1. **Litigence AI**  
-   - A cross-platform legal assistant app that simplifies Indian law for citizens.  
-   - Features include a chatbot interface, multilingual support, and legal document parsing.  
-   - Built with Flutter and Flask, leveraging Vertex AI for intelligence.  
-   - *[GitHub Repository](https://github.com/LexMachina-AI)*    
+- **[Litigence AI](https://github.com/LexMachina-AI)**  
+  - A cross-platform legal assistant app that simplifies Indian law for citizens.  
+  - Features include a chatbot interface, multilingual support, and legal document parsing.  
+  - Built with Flutter and Flask, leveraging Vertex AI for intelligence.
 
-2. **Modern Android Development Lab**  
-   - Lab exercises showcasing modern Android techniques like Jetpack Compose and Kotlin Multiplatform.  
-   - Covers advanced topics like animations, gyroscopic sensors, and DataStore integration.  
-   - *[GitHub Repository](https://github.com/IT-KCT-Modern-Android-Development)*  
+- **[Modern Android Development Lab](https://github.com/IT-KCT-Modern-Android-Development)**  
+  - Lab exercises showcasing modern Android techniques like Jetpack Compose and Kotlin Multiplatform.  
+  - Covers advanced topics like animations, gyroscopic sensors, and DataStore integration.
 
-3. **KCT-BSGW Translation Utility**  
-   - A Windows app developed in collaboration with Bosch Global Software Technologies (BSGW).  
-   - Automates text translation using Microsoft Azure Translate for various file formats.  
-   - *[GitHub Repository](https://github.com/KarthiDreamr/MultiFileAzureTranslateWindowsApp)*  
+- **[KCT-BSGW Translation Utility](https://github.com/KarthiDreamr/MultiFileAzureTranslateWindowsApp)**  
+  - A Windows app developed in collaboration with Bosch Global Software Technologies (BSGW).  
+  - Automates text translation using Microsoft Azure Translate for various file formats.
 
 🎯 **Mission:**  
 To build accessible, impactful technology that bridges gaps in justice, healthcare, and education.
