@@ -6,7 +6,7 @@
 
 💡 **Open Source Contributions:**  
 
-- **[Litigence AI](https://github.com/LexMachina-AI)**  
+- **[Litigence AI](https://github.com/Litigence-AI)**  
   - A cross-platform legal assistant app that simplifies Indian law for citizens.  
   - Features include a chatbot interface, multilingual support, and legal document parsing.  
   - Built with Flutter and Flask, leveraging Vertex AI for intelligence.
@@ -15,7 +15,7 @@
   - Lab exercises showcasing modern Android techniques like Jetpack Compose and Kotlin Multiplatform.  
   - Covers advanced topics like animations, gyroscopic sensors, and DataStore integration.
 
-- **[KCT-BSGW Translation Utility](https://github.com/KarthiDreamr/MultiFileAzureTranslateWindowsApp)**  
+- **[KCT-BSGW Translation Utility](https://github.com/KarthiDreamr/MultiFile_AzureTranslate_WindowsApp)**  
   - A Windows app developed in collaboration with Bosch Global Software Technologies (BSGW).  
   - Automates text translation using Microsoft Azure Translate for various file formats.
 
