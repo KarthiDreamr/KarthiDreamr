@@ -1,8 +1,15 @@
 # 👋 Hi, I'm Karthi
 
+## Portfolio & Showcase
+
+- **Designs:** Check out my design work on Figma [here](https://www.figma.com/team_invite/redeem/KtiwyHPmItGIoo5ry9LeuB) 🎨.
+- **Project Showcase:** Watch my project walkthroughs and demos on my YouTube channel [here](https://www.youtube.com/@KarthiDreamr) 📹.
+
+
 🚀 **About Me:**  
 - Founder of **Litigence AI**, an open-source project empowering justice through AI-driven legal solutions.
-- Specialized in Mobile and Desktop application. Ready to learn anything to accomplish the task
+- Have experience in Mobile and Desktop application development. 
+- Specialived in Flutter Crossplatform Devolopment, But curious to learn everything needed to accomplish the goals
 
 💡 **Open Source Contributions:**  
 
